@@ -1,2 +1,2 @@
-# v1.0.1
-- Added missing 3LS YB Blank LT1LNE, 3LS YB Blank LT1LNE 2, and 3LS YB Blank RT1LNE 2 signs.
+# v1.0.2
+- Added missing 3LS OD LT2LNE, 3LS OD RF1, 3LS OD RF2, 3LS OL RF1, 3LS OL RF2, 3LS OLL RF1, 3LS OR RF1, 3LS OR RF2 and 3LS ORL RF1 signs.
