@@ -1,10 +1,10 @@
-# 3LS California Highway (Freeway) Signs for Cities: Skylines II
+# 3LM California Highway (Freeway) Signs for Cities: Skylines II
 
-Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module** that brings 3 lane small California highway (freeway) signs into Cities: Skylines II!
+Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module** that brings 3 lane medium California highway (freeway) signs into Cities: Skylines II!
 
 ## Features
 
-- 3 Lane (Small) California Highway (Freeway) signs inspired by California's MUTCD
+- 3 Lane (Medium) California Highway (Freeway) signs inspired by California's MUTCD
 - 107 total signs (see screenshots)
 - WE Layout included for easy implementation onto your highways (freeways)
 
@@ -17,17 +17,17 @@ Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module**
 5. Click on the Folder Icon (Import/load...).
 6. Click on Import layout from xml at root.
 7. Click on the puzzle-piece (Templates from mods)... (see screenshot)
-8. Click on 3LS CA Highway Signs (WE). (see screenshot)
-9. Click on 3LS CA Highway Sign.wedefault.xml. (see screenshot)
+8. Click on 3LM CA Highway Signs (WE). (see screenshot)
+9. Click on 3LM CA Highway Sign.wedefault.xml. (see screenshot)
 10. The layout will be added to WE's COMPONENTS TREE window. (see screenshot)
-11. Click the down arrow on 3LS CA Highway Sign.
+11. Click the down arrow on 3LM CA Highway Sign.
 12. Select Sign Image.
-13. On the CONTENT window, set Atlas to 3LS CA Highway Signs (WE):3LS CA Highway Signs. (see screenshot)
-14. Set Image and customize it to your city needs! (there are plenty of WE Modules on Paradox Mods that include highway shields for use with 3LS CA Highway (Freeway) Signs)
+13. On the CONTENT window, set Atlas to 3LM CA Highway Signs (WE):3LM CA Highway Signs. (see screenshot)
+14. Set Image and customize it to your city needs! (there are plenty of WE Modules on Paradox Mods that include highway shields for use with 3LM CA Highway (Freeway) Signs)
 
 There is some terminology that you can use to determine what sign is what:
 
-- 3LS - 3 Lane Small
+- 3LM - 3 Lane Medium
 - Blank - Blank Sign
 - YB - Yellow Banner
 - EO - Exit Only
