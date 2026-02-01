@@ -6,6 +6,7 @@ Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module**
 
 - 3 Lane (Medium) California Highway (Freeway) signs inspired by California's MUTCD
 - 107 total signs (see screenshots)
+- Additional 120 new signs with exit tab style 1 with Ext1 WE atlas pack (with v1.1 update)
 - WE Layout included for easy implementation onto your highways (freeways)
 
 ## How to Use
@@ -22,7 +23,7 @@ Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module**
 10. The layout will be added to WE's COMPONENTS TREE window. (see screenshot)
 11. Click the down arrow on 3LM CA Highway Sign.
 12. Select Sign Image.
-13. On the CONTENT window, set Atlas to 3LM CA Highway Signs (WE):3LM CA Highway Signs. (see screenshot)
+13. On the CONTENT window, set Atlas to 3LM CA Highway Signs (WE):3LM CA Highway Signs or 3LM CA Highway Signs (WE):3LM CA Highway Signs Ext1. (see screenshot)
 14. Set Image and customize it to your city needs! (there are plenty of WE Modules on Paradox Mods that include highway shields for use with 3LM CA Highway (Freeway) Signs)
 
 There is some terminology that you can use to determine what sign is what:
@@ -77,3 +78,5 @@ No fonts included. Any True-Type font (.ttf) can be used with these signs. I per
 - To Klyte45 for the WriteEverywhere Mod!
 - To UnMaestro for the help and WE Module template!
 
+##  More signs?
+- Check out my profile for more of my signs and subscribe for the latest releases!
